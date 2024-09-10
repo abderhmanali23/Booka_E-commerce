@@ -1,3 +1,3 @@
 # Booka E-commerce
- Online shopping..
-my first project as a full-stack developer
+ <b>Online shopping..</b><br>
+My first project as a full-stack developer
